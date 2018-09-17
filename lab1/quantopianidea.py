@@ -1,3 +1,11 @@
+#https://www.quantopian.com/posts/a-couple-of-algo-ideas-from-a-newbie
+
+
+
+
+
+
+
 # Do nothing unless the date has changed  
 if todays_date == context.date:  
     return  
